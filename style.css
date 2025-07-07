@@ -1,0 +1,42 @@
+body{
+    background-color: aqua;
+    padding: 25px;
+}
+
+.rumah{
+    height: 100%;
+}
+
+.ruangtamu{
+    /*background-color: blue;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.kamar{
+    /*background-color: beige;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.dapur{
+    /*background-color: beige;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    gap: 15px;
+}
+
+.kamarmandi{
+    /*background-color: beige;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    gap: 15px;
+}
