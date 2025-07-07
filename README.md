@@ -1,2 +1,2 @@
 # CobaAjo
-ini project pertama
+ini project pertama. Projek cekrekan lampu dari tutorial cuy univeristy semester 1 dea afrizal. Projek ini selesai dengan menuntaskan PR nya juga.
