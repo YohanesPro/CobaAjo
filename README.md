@@ -4,3 +4,4 @@ ini project pertama. Projek cekrekan lampu dari tutorial cuy univeristy semester
 coba commit git 
 biar tidak bolong streak
 
+cari badge part 1
