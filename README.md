@@ -5,3 +5,5 @@ coba commit git
 biar tidak bolong streak
 
 cari badge part 1
+
+cari badge part 2
